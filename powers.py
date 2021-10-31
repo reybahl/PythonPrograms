@@ -15,6 +15,3 @@ def is_power(num1, num2):
             return False
 
 print(is_power(int(input()), int(input())))
-
-
-    
